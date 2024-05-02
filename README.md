@@ -5,6 +5,11 @@ Repositório para armazenar resumos sobre GIT e GitHub do curso Versionamento de
 ## 💾 Resumos das aulas
 - Conteúdo:
     - Versionamento refere-se as novas versões(alterações) feitas em um projeto;
+    - Caso: Criando um repositório remoto a partir de local já existente.
+        - 1° Criar um repositório com o mesmo nome do repositório local, sem README.md;
+        - 2° No GIT Bash, seguir com as instruções correspondentes.
+    - Caso: Salvar alterações feita remotamente no local.
+        - No GIT Bash escrever o comando git pull que puxa e mescla as alterações.
 - Comandos:
     - mkdir - Cria pastas;
     - cd .. | cd pasta/ - Usado para navegar pelas pastas no terminal;
